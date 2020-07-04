@@ -26,7 +26,7 @@ This is are some of the topic based projects that I have practiced in my journey
 
 ## ➤ 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/MyDataCamp_Projects/issues). You can also take a look at the our project and PR us .[Click to Raise PR](https://github.com/yashrajjain726/MyDataCamp_Projects/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Machine-Learning-Hands-On-Practice/issues). You can also take a look at the our project and PR us .[Click to Raise PR](https://github.com/yashrajjain726/Machine-Learning-Hands-On-Practice/issues).
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#show-your-support)
